@@ -1,0 +1,5 @@
+[
+  {"id_product": "1","category_product":"Shoes","name_product":"Nike","description_product":"Change the order of grid columns to the left\n\nfor Medium devices Desktops","price_product": "200000","weight_product":2,"quantity_product": "20","date_created":"20\/2\/2016"},
+{"id_product": "2","category_product":"Shoes","name_product":"Vans","description_product":"Change the order of grid columns to the left\n\nfor Small devices Tablets\n\nclass-prefix","price_product":"150000","weight_product":1,"quantity_product":"20","date_created":"21\/2\/2016"},
+{"id_product":"3","category_product":"Shoes","name_product":"Puma","description_product":"Change the order of grid columns to the left\n\nfor Small devices Tablets\n\nclass-prefix","price_product":"1000000","weight_product":2,"quantity_product":"20","date_created":"22\/2\/2016"}
+]
